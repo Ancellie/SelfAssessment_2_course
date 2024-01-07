@@ -6,7 +6,7 @@
   - constant: 🙋 explained
   - scalar: 👂 heard
   - literal: 🖐️ used
-  - expression
+  - expression: 👂 heard
   - heap: 🙋 explained
   - function: 🙋 explained
   - procedure: 👂 heard
@@ -36,9 +36,9 @@
   - lambda expression: 👂 heard
   - side effects
   - closure
-  - partial application: 
+  - partial application 
   - curry: 👂 heard
-  - higher order:
+  - higher order
   - recursion
   - callback
   - listener

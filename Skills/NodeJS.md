@@ -1,6 +1,6 @@
-:## Node.js and backend
+## Node.js and backend
 
-- Internals and concep:ts
+- Internals and concepts
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
@@ -60,7 +60,7 @@
   - Internationalization
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
-- Application structure and architectu:re
+- Application structure and architecture
   - Isolation between layer
   - Multilayer approach
   - Separation of concerns
@@ -87,7 +87,7 @@
   - IP sticky sessions
   - Endpoint throttlin
   - HTTP(S): 👂 heard
-  - TCP/SS:L🖐️ used
+  - TCP/SSL: 🖐️ used
   - UDP: 👂 heard
   - TLS
   - Websocket: 👂 heard
@@ -112,7 +112,7 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-- Technique and too:ls
+- Technique and tools
   - Native test runner: 👂 heard
   - Logging: 👂 heard
   - Application configuring: 👂 heard
@@ -123,7 +123,7 @@
   - Transform
   - back pressure
   - Buffer: 👂 heard
-  - Console : 🖐️
+  - Console : 🖐️ used
   - Inspector
   - Reliability
   - Quality

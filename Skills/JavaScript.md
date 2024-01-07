@@ -1,4 +1,4 @@
-## Programming fundamental concept:s
+## Programming fundamental concepts
 
 - Language
   - Object: 🖐️ used
@@ -26,8 +26,8 @@
   - getters and setters: 🖐️ used
   - prototype: 🖐️ used
   - equality operators: 👂 heard
-  - logical operators: 👂heard
-  - bitwise operators: 👂heard
+  - logical operators: 👂 heard
+  - bitwise operators: 👂 heard
   - ternary operator: 👂 heard
   - void: 🖐️ used
   - yield: 🖐️ used
@@ -39,26 +39,26 @@
   - super: 👂 heard
   - Symbol: 🖐️ used
   - Reflect: 👂 heard
-- Statemen:ts
+- Statements
   - if: 🖐️ used
   - while: 🖐️ used
   - do..while: 🖐️ used
   - for: 🖐️ used
   - for..in: 🖐️ used
   - for..of: 🖐️ used
-  - for awa:it
+  - for await
   - throw: 🖐️ used
   - break: 🖐️ used
   - continue: 🖐️ used
   - import: 🖐️ used
-  - export: 🖐️used
+  - export: 🖐️ used
   - label:
   - try..catch: 🖐️ used
   - switch: 🖐️ used
   - class: 🖐️ used
   - new Error: 🖐️ used
   - with: 🖐️ used
-- Functio:ns
+- Functions
   - function declaration: 🖐️ used
   - function expression
   - return: 🖐️ used
@@ -72,10 +72,10 @@
   - Map: 🖐️ used
   - Set: 🖐️ used
   - undefined: 🖐️ used
-  - null: 🖐️used
+  - null: 🖐️ used
   - Proxy: 👂 heard
   - weak collections
-  - timers: 🖐️used
+  - timers: 🖐️ used
   - EventEmitter
   - RegExp
   - Date: 🖐 used
