@@ -1,4 +1,5 @@
 ## Programming fundamental concepts
+
 - Syntax and concepts
   - value: 🙋 explained
   - identifier: 👂 heard
@@ -6,7 +7,7 @@
   - constant: 🙋 explained
   - scalar: 👂 heard
   - literal: 🖐️ used
-  - expression: 👂 heard
+  - expression: 🖐️ used
   - heap: 🙋 explained
   - function: 🙋 explained
   - procedure: 👂 heard
@@ -21,22 +22,22 @@
   - lexical scope: 👂 heard
   - code block: 🙋 explained
   - conditions
-  - loops:
+  - loops
   - assignment: 👂 heard
   - regular expression: 👂 heard
   - interface: 🖐️used
   - contract: 👂 heard
-  - module: 👂 heard
-  - call stack: 👂 heard
+  - module: 🖐️ used
+  - call stack: 🖐️ used
 - Functions
   - signature:
   - argument: 🙋 explained
   - parameter: 🙋 explained
   - pure function: 
-  - lambda expression: 👂 heard
+  - lambda expression: 🖐️ used
   - side effects
   - closure
-  - partial application 
+  - partial application
   - curry: 👂 heard
   - higher order
   - recursion
@@ -75,16 +76,16 @@
   - mutable state: 👂 heard
   - immutable state: 👂 heard
   - serialization: 👂 heard
-  - string parsing: 👂 heard
+  - string parsing: 🙋 explained
 - Process & style
   - compiler
   - transpiler
   - linter
   - polyfill: 👂 heard
   - debugger: 🙋 explained
-  - garbage collection: 
-  - refactoring: 👂 heard
-  - code review: 👂 heard
+  - garbage collection
+  - refactoring: 🖐️ used
+  - code review: 🖐️ used
   - antipatterns: 👂 heard
   - paradigm: 🙋 explained
   - algorithm: 🙋 explained
@@ -101,5 +102,5 @@
   - exception: 🙋 explained
   - return early
   - unittest: 🙋 explained
-  - github: 👂 heard
-  - git: 👂 heard
+  - github: 🖐️ used
+  - git: 🖐️ used

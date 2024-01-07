@@ -20,9 +20,9 @@
   - Parallel programming: 👂 heard
   - Actor Model
   - Thread: 👂  heard
-  - Process: 👂 heard
+  - Process: 🖐 used
 - Async contracts
-  - Callbacks: 👂 heard
+  - Callbacks: 🖐 used
   - Callback-last-error-first: 👂 heard
   - Thenable
   - Promise

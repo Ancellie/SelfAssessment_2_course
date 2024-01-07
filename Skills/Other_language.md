@@ -1,7 +1,7 @@
 ## Programming fundamental concepts
  
 - С++
-    - Variables: 🖐 used
+    - Variables: 🖐️ used 
     - Types: 🖐 used
     - Declaration: 🖐 used
     - Initialization: 🖐 used
@@ -28,9 +28,14 @@
     - Files: 🖐 used
     - pointers: 🖐 used
     - struct: 🖐 used
+    - QT: 🖐 used
+    - TCPServer: 🖐 used
+    - TCPSocket: 🖐 used
+    - Signals and slots: 🖐 used
+    - QpaintEvent: 🖐 used
 - С
     - Variables: 🖐 used
-    - Types: 🖐 used 
+    - Types: 🖐 used
     - Declaration: 🖐 used
     - Initialization: 🖐 used
     - if (condition) {}: 🖐 used
@@ -47,3 +52,24 @@
     - Files: 🖐 used
     - struct: 🖐 used
     - pointers: 🖐 used
+- Python
+    - PyGame: 🖐 used
+    - Algorithms: 🖐 used
+    - Files: 🖐 used
+    - Exception: 🖐 used
+    - Variables: 🖐 used
+    - Types: 🖐 used
+    - Declaration: 🖐 used
+    - Initialization: 🖐 used
+    - if (condition) {}: 🖐 used
+    - else if (condition) {}: 🖐 used
+    - else {}:🖐 used
+    - switch ... case:...: 🖐 used
+    - for () {}: 🖐 used
+    - while () {}: 🖐 used
+    - do {} while (): 🖐 used
+    - Arrays: 🖐 used
+    - Functions: 🖐 used
+    - Methods: 🖐 used
+    - Class: 🖐 used
+  

@@ -24,28 +24,28 @@
   - constructor: 🖐️ used
   - new: 🖐️ used
   - Static method: 🖐️ used
-  - Method: 👂 heard
+  - Method: 🖐️ used
   - Async method: 👂 heard
   - Getters, Setters: 🖐️ used
-  - Public fields: 👂 heard
-  - Private fields: 👂 heard
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
   - Field declarations: 🖐️ used
-  - Inheritance: 👂 heard
-  - Parent class: 👂 heard
-  - Polymorphism: 👂 heard
-  - Abstract class: 👂 heard
-  - Interface: 👂 heard
-  - Encapsulation: 👂 heard
-  - Hidden class: 👂 heard
-  - Object form: 👂 heard
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
+  - Hidden class: 🖐️ used
+  - Object form: 🖐️ used
   - instance
   - Introspection
-  - Reflection: 👂 heard
+  - Reflection: 🖐️ used
 - Patterns
-  - Singleton: 👂 heard
-  - Factory Method: 👂 heard
-  - Abstract Factory: 👂 heard
-  - Adapter: 👂 heard
+  - Singleton: 🖐️ used
+  - Factory Method: 🖐️ used
+  - Abstract Factory: 🖐️ used
+  - Adapter: 🖐️ used
   - Observer: 👂 heard
   - Strategy
   - Facade
@@ -58,7 +58,7 @@
   - Builder
   - Prototype: 👂 heard
   - Composite
-  - Decorator: 👂
+  - Decorator: 👂 heard
   - Flyweight: 👂 heard
   - Mediator: 👂 heard
   - Memento: 👂 heard
