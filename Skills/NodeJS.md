@@ -1,6 +1,6 @@
-## Node.js and backend
+:## Node.js and backe:n:d
 
-- Internals and concepts
+- Internals and concep:ts
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
@@ -10,15 +10,15 @@
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
-- Modularity, layers and dependencies
+- Modularity, layers and dependenci:es
   - CommonJS modules
   - ECMAScript modules
-  - node:module
+  - node:module: 🙋 explained
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 🙋 explained
+  - Dependencies: package.json and package lock: 👂 heard
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -55,19 +55,19 @@
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - node:url vs new URL
+  - node:url vs new URL 
   - node:assert
   - Internationalization
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
-- Application structure and architecture
+- Application structure and architectu:re
   - Isolation between layer
   - Multilayer approach
   - Separation of concerns
   - Inversion of control
   - Dependency injection
   - GRASP
-  - SOLID
+  - SOLID: 🎓 known
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -85,20 +85,20 @@
   - Leaking abstractions
 - Network
   - IP sticky sessions
-  - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - Endpoint throttlin
+  - HTTP(S): 👂 heard
+  - TCP/SS:L🖐️ used
+  - UDP: 👂 heard
   - TLS
-  - Websocket
+  - Websocket: 👂 heard
   - SSE
   - HTTP/3 (QUIC)
-  - Long polling
-  - REST
+  - Long pollingм
+  - REST: 🙋 explained
   - RPC
   - Routing
-  - DoS
-  - DDoS
+  - DoS: 🖐️ used
+  - DDoS: 🖐️ used
   - XSS
   - Path traversal
   - CSRF
@@ -112,18 +112,18 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-- Technique and tools
-  - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
+- Technique and too:ls
+  - Native test runner: 👂 heard
+  - Logging: 👂 heard
+  - Application configuring: 👂 heard
+  - Testing: 👂 heard
   - CI/CD
-  - Readable
-  - Writable
+  - Readable: 👂 heard
+  - Writable: 👂 heard
   - Transform
   - back pressure
-  - Buffer
-  - Console
+  - Buffer: 👂 heard
+  - Console : 🖐️
   - Inspector
   - Reliability
   - Quality
@@ -144,8 +144,8 @@
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions
-  - Heap dump
-  - Debugging tools
+  - Heap dump: 👂 heard
+  - Debugging tools: 👂 heard
   - Flame graph
   - Memory leaks
   - Resource leaks
@@ -156,15 +156,15 @@
   - Rust addons
   - Zig addons
   - NAN (Native Abstractions for Node.js)
-  - Node-API (formerly N-API)
+  - Node-API (formerly N-API:)
   - NAPI C and C++
-  - NAPI Rust
+  - NAPI Rus
   - NAPI Zig
   - Webassembly WAT
   - Webassembly C and C++
   - Webassembly Rust
   - Webassembly Zig
   - Webassembly AssemblyScript
-  - Shared memory
-  - SharedArrayBuffer
+  - Shared memory: 👂 heard
+  - SharedArrayBuffer: 👂 heard
   - V8 binary serialization
