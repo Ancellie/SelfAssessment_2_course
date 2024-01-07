@@ -32,7 +32,7 @@
   - void: 🖐️ used
   - yield: 🖐️ used
   - await: 👂 heard
-  - template literal: 👂
+  - template literal: 👂 heard
   - strict mode: 🖐️ used
   - delete: 🖐️ used
   - in: 🖐️ used
@@ -46,12 +46,12 @@
   - for: 🖐️ used
   - for..in: 🖐️ used
   - for..of: 🖐️ used
-  - for await
+  - for awa:it
   - throw: 🖐️ used
   - break: 🖐️ used
   - continue: 🖐️ used
   - import: 🖐️ used
-  - export: 🖐️ used
+  - export: 🖐️used
   - label:
   - try..catch: 🖐️ used
   - switch: 🖐️ used
