@@ -1,4 +1,4 @@
-:## Node.js and backe:n:d
+:## Node.js and backend
 
 - Internals and concep:ts
   - Strong and weak sides of node.js
@@ -10,7 +10,7 @@
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
-- Modularity, layers and dependenci:es
+- Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
   - node:module: 🙋 explained
