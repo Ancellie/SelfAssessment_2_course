@@ -1,4 +1,4 @@
-## Asynchronous programmin:g
+## Asynchronous programming
 
 - Theory
   - Event loop: 👂 heard
@@ -40,7 +40,7 @@
   - Chain of responsibility
   - Middleware
   - Locks
-- Async adapters and uti:ls
+- Async adapters and utils
   - callbackify
   - promisify
   - asyncify
@@ -58,7 +58,7 @@
   - Semaphore
   - Mutex
   - Spin Lock
-- JavaScript & Node.js specif:ic
+- JavaScript & Node.js specific
   - Timers: 🎓 known
   - setImmediate
   - nextTick

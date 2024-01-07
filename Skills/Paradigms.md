@@ -50,7 +50,7 @@
   - Strategy
   - Facade
   - Proxy: 👂 heard
-  - Chain of Responsibility: 👂
+  - Chain of Responsibility: 👂 heard
   - Command: 👂 heard
   - Iterator: 🖐️ used
   - State: 👂 heard
