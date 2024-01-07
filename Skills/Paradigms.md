@@ -1,6 +1,6 @@
 ## Multi-paradigm programming
 
-- Theo:ry
+- Theory
   - Procedural programming: 🎓 known
   - Imperative programming: 🎓 known
   - Structured programming: 🎓 known
@@ -41,7 +41,7 @@
   - instance
   - Introspection
   - Reflection: 👂 heard
-- Patter:ns
+- Patterns
   - Singleton: 👂 heard
   - Factory Method: 👂 heard
   - Abstract Factory: 👂 heard
