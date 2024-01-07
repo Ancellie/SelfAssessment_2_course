@@ -35,7 +35,7 @@
     - Initialization: 🖐 used
     - if (condition) {}: 🖐 used
     - else if (condition) {}: 🖐 used
-    - else {}:🖐 used
+    - else {}: 🖐 used
     - switch ... case:...: 🖐 used
     - for () {}: 🖐 used
     - while () {}: 🖐 used
