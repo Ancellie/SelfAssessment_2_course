@@ -112,7 +112,7 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-- Technique and tools
+- Technique and too:ls
   - Native test runner: 👂 heard
   - Logging: 👂 heard
   - Application configuring: 👂 heard
@@ -136,10 +136,10 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
+  - Error: 🖐️ used
   - error.cause
   - error.code
-  - error.message
+  - error.message: 🖐️ used
   - error.stack
   - How to avoid mixins
   - Error.captureStackTrace
