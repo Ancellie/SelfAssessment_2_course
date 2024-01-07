@@ -1,8 +1,8 @@
-## Asynchronous programming
+## Asynchronous programmin:g
 
 - Theory
-  - Event loop
-  - try..catch
+  - Event loop: 👂 heard
+  - try..catch: 🖐 used
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -16,14 +16,14 @@
   - Race conditions
   - Dead locks
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming: 👂 heard
+  - Parallel programming: 👂 heard
   - Actor Model
-  - Thread
-  - Process
+  - Thread: 👂  heard
+  - Process: 👂 heard
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
+  - Callbacks: 👂 heard
+  - Callback-last-error-first: 👂 heard
   - Thenable
   - Promise
   - Async/await
@@ -40,7 +40,7 @@
   - Chain of responsibility
   - Middleware
   - Locks
-- Async adapters and utils
+- Async adapters and uti:ls
   - callbackify
   - promisify
   - asyncify
@@ -58,8 +58,8 @@
   - Semaphore
   - Mutex
   - Spin Lock
-- JavaScript & Node.js specific
-  - Timers
+- JavaScript & Node.js specif:ic
+  - Timers: 🎓 known
   - setImmediate
   - nextTick
   - AbortController
