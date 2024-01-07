@@ -1,0 +1,49 @@
+## Programming fundamental concepts
+ 
+- С++
+    - Variables: 🖐 used
+    - Types: 🖐 used
+    - Declaration: 🖐 used
+    - Initialization: 🖐 used
+    - if (condition) {}: 🖐 used
+    - else if (condition) {}: 🖐 used
+    - else {}: 🖐 used
+    - switch ... case:...: 🖐 used
+    - for () {}: 🖐 used
+    - while () {}: 🖐 used
+    - do {} while (): 🖐 used
+    - Arrays: 🖐 used
+    - Lists: 🖐 used
+    - Functions: 🖐 used
+    - Methods: 🖐 used
+    - Class: 🖐 used
+    - Static: 🖐 used
+    - new: 🖐 used
+    - delete: 🖐 used
+    - OOP: 🖐 used
+    - Abstract class: 🖐 used
+    - Exception: 🖐 used
+    - try {} catch{}: 🖐 used
+    - system: 🖐 used
+    - Files: 🖐 used
+    - pointers: 🖐 used
+    - struct: 🖐 used
+- С
+    - Variables: 🖐 used
+    - Types: 🖐 used 
+    - Declaration: 🖐 used
+    - Initialization: 🖐 used
+    - if (condition) {}: 🖐 used
+    - else if (condition) {}: 🖐 used
+    - else {}:🖐 used
+    - switch ... case:...: 🖐 used
+    - for () {}: 🖐 used
+    - while () {}: 🖐 used
+    - do {} while (): 🖐 used
+    - Arrays: 🖐 used
+    - Functions: 🖐 used
+    - Static: 🖐 used
+    - system: 🖐 used
+    - Files: 🖐 used
+    - struct: 🖐 used
+    - pointers: 🖐 used
